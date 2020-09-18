@@ -480,6 +480,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveConfigs:
   - {fileID: 11400000, guid: cb99705a4a492e84cb2ee72c7ad24279, type: 2}
+  - {fileID: 11400000, guid: 9c18f472849d2ca41b3a17f5f9f32fbf, type: 2}
+  - {fileID: 11400000, guid: 013789c01afbc6a41a1c02b77b837189, type: 2}
   looping: 1
 --- !u!4 &1400854194
 Transform:
@@ -489,7 +491,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1400854192}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.074088424, y: 7.46572, z: -10.503512}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
