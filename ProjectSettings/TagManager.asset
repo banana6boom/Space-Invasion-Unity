@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Player Laser
+  - Enemy Laser
+  - Asteroid
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Lasers
+    uniqueID: 1803524021
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
